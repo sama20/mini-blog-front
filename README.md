@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# A Cool Mini Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Front-end is here:
+[http://localhost:3000](http://localhost:3000)
+
+Back-end is here:
+[https://github.com/sama20/mini-blog](https://github.com/sama20/mini-blog)
+
 
 ### Run
 
@@ -12,14 +17,6 @@ To run project do bellow steps:
 
 3- run npm
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
 
 ### Description
 
@@ -59,11 +56,6 @@ NOTE:
 Please use REACT/ REDUX
 Creating UI - feel free to choose your design
 ```
-
-Front-end is here:
-[http://localhost:3000](http://localhost:3000)
-Back-end is here:
-[https://github.com/sama20/mini-blog](https://github.com/sama20/mini-blog)
 
 
 

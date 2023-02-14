@@ -10,7 +10,7 @@ const Header = ({user}) => {
         <header>
             <nav className="navbar navbar-expand navbar-dark bg-dark">
                 <Link to={"/"} className="navbar-brand">
-                    steDEV
+                    STDev
                 </Link>
                 <div className="navbar-nav mr-auto">
                     <li className="nav-item">
