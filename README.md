@@ -1,7 +1,7 @@
 # A Cool Mini Blog
 
 Front-end is here:
-[http://localhost:3000](http://localhost:3000)
+[https://github.com/sama20/mini-blog-front](https://github.com/sama20/mini-blog-front)
 
 Back-end is here:
 [https://github.com/sama20/mini-blog](https://github.com/sama20/mini-blog)
